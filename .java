@@ -4,7 +4,7 @@ class hello
 
     {
 
-        System.out.println("Hello World/n");
+        System.out.println("Hello shama/n");
 
     }
 }
